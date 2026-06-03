@@ -1,4 +1,4 @@
-# Password Manager
+# Password Vault
 
 A simple Windows Forms password manager written in C#.
 
