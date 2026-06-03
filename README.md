@@ -1,6 +1,6 @@
 # Vault - Password Manager
 
-A simple Windows Forms password manager written in C#.
+Password manager written in C#.
 
 ## Features
 
